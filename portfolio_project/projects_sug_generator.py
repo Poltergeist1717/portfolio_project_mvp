@@ -1,8 +1,7 @@
-#!/bin/bash/env
+#!/usr/bin/env python3
 
 import os
 import openai
-#import tkinter as tk
 import customtkinter as ctk
 
 #Function for generating propmts
