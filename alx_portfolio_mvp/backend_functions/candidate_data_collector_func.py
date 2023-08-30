@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import json
 from candidate_class import Candidate_page
 #from datetime import datetime

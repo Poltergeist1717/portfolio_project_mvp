@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import tkinter as tk
 import customtkinter as ctk
 
@@ -23,7 +25,7 @@ class Interview_page(tk.Frame):
             language_frame, values= ["HTML", "CSS", "Java", "Javascript", "Python", "C", "C++", "PHP", "C#"],
             fg_color="purple", border_color="purple", button_hover_color="purple", bg_color="purple",
               button_color="#FF4500", dropdown_hover_color="purple", justify="center", 
-              dropdown_fg_color="#FF4500",)
+              dropdown_fg_color="#FF4500")
         language_dropdown.pack(pady = 5)
 
         #Create the Difficulty Frame

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import re
 from tkinter import messagebox
 from candidate_class import Candidate_page

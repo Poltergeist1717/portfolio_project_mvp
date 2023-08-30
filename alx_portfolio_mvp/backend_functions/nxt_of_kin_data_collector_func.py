@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import json
 from candidate_data_control_function import Candidate_Details_Collector
 from next_of_kin_class import Next_Of_Kin_page

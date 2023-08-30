@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from tkinter import messagebox
 from entry_data_checker_func import Check_user_input
 from nxt_of_kin_data_collector_func import Next_Of_Kin_Details_Collector
