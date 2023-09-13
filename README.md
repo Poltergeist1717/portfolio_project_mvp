@@ -7,7 +7,7 @@
 **Project Links:**
 - [Cruxaming Landing Page](http://cruxaming.me)
 - [Final Project Blog Article](https://www.linkedin.com/pulse/exciting-update-my-software-engineering-journey-olamide-lateef)
-- [Author's LinkedIn](insert_author_linkedin_profile_link_here)
+- [Author's LinkedIn](https://www.linkedin.com/in/olamide-lateef-0864ab220/))
 
 ## Installation
 
